@@ -1,19 +1,4 @@
-name: nityanandadas
-favicon: null
-layout_spectrum: 0.6237198817543685
-typography_spectrum: 0.7112784946803004
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#F7EDF0'
@@ -21,8 +6,13 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.42726291297003627
-  lightness: 0.7178773307241499
-  saturation: 0.22332154912874103
-  rhythmicContrast: 0.5196753051131964
+  brandStrength: 0.427262
+  lightness: 0.717877
+  rhythmicContrast: 0.519675
+  saturation: 0.223321
+cta: {}
+layout_spectrum: 0.623719
+name: nityanandadas
+opengraph: {}
 purpose: []
+typography_spectrum: 0.711278
