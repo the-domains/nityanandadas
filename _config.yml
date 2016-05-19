@@ -1,4 +1,20 @@
-analytics: {}
+name: nityanandadas
+favicon: null
+layout_spectrum: 0.886824
+typography_spectrum: 1
+title: Nityananda Das
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -8,11 +24,6 @@ color:
     - '#F4F482'
   brandStrength: 0.427262
   lightness: 0.717877
-  rhythmicContrast: 0.519675
   saturation: 0.223321
-cta: {}
-layout_spectrum: 0.886824
-name: nityanandadas
-opengraph: {}
+  rhythmicContrast: 0.519675
 purpose: []
-typography_spectrum: 1
