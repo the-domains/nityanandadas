@@ -1,20 +1,13 @@
 name: nityanandadas
-favicon: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d35537a-cba7-4de9-80d6-2f02bf62e53f.jpg
 layout_spectrum: 0.886824
 typography_spectrum: 1
-title: Nityananda Das
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#F7EDF0'
@@ -27,3 +20,10 @@ color:
   saturation: 0.223321
   rhythmicContrast: 0.519675
 purpose: []
+title: Nityananda Das
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
