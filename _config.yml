@@ -1,26 +1,28 @@
+layout_spectrum: 0.49180412851274014
+typography_spectrum: 0.11136927176266909
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.931638888316229
+  lightness: 0.2359886907506734
+  saturation: 0.9247294659726322
+  rhythmicContrast: 0.9178570620715618
+coverPrefs:
+  filter: false
 name: nityanandadas
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e2978a0-024d-407e-856d-2f1a615892ce.jpg
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/303edb4a-7cf2-40c6-8f1c-a9eb700fddf1.jpg
-layout_spectrum: 0.886824
-typography_spectrum: 1
 cta: {}
 analytics: {}
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.427262
-  lightness: 0.717877
-  saturation: 0.223321
-  rhythmicContrast: 0.519675
 purpose: []
 title: Nityananda Das
 author:
